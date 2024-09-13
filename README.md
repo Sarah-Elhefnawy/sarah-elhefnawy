@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+My name is Sarah, and I'm a BIS graduate interested in all things ASP.NET MVC & ASP.NET Web API!
+
+- 🌱 I’m currently learning Backend .NET Developer Roadmap!
+- 🔭 I’m currently working on [Maze Game Project](https://www.youtube.com/watch?v=0YbuM2oPuOA), building my OOP knowledge.
+- 🎯 I recently Led the backend development of the 'Teddy' mobile app for kids that enhanced their learning experience, check it out [here](https://github.com/Sarah-Elhefnawy/TeddyApplication)
+- 📌 I’m looking to an Entry-Level position as .Net Backend Developer.
+
+
 <!--
 **Sarah-Elhefnawy/sarah-elhefnawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
