@@ -37,8 +37,6 @@ I kickstarted my software development journey in 2023 during my college years, s
 
 <div width="100%" align="center"><a href="https://github.com/Sarah-Elhefnawy/TeddyApplication" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sarah-Elhefnawy&repo=TeddyApplication&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Sarah-Elhefnawy/WeatherForecast" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sarah-Elhefnawy&repo=WeatherForecast&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/Sarah-Elhefnawy/GameZone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Sarah-Elhefnawy&repo=GameZone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 
