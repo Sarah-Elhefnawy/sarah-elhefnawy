@@ -2,8 +2,10 @@
 <h1 align="center"> 👋 </h1>
 
 
-![Hello, I'm Sarah!](https://github.com/user-attachments/assets/6f7f82cb-a141-46af-b507-c833a91e8f3a)
 
+<div align="center">
+  <img src="https://github.com/Sarah-Elhefnawy/sarah-elhefnawy/blob/2b81208f7196ab12e0ee2c93ae22e4236577ebfd/images/Hello%2C%20I'm%20Sarah!.gif" alt="header"/>
+</div>
 <p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
@@ -60,6 +62,8 @@ My name is Sarah, and I'm a BIS graduate interested in all things ASP.NET MVC & 
 - 🎯 I recently Led the backend development of the 'Teddy' mobile app for kids that enhanced their learning experience, check it out [here](https://github.com/Sarah-Elhefnawy/TeddyApplication)
 - 📌 I’m looking to an Entry-Level position as .Net Backend Developer.
 
+
+![Hello, I'm Sarah!](https://github.com/user-attachments/assets/6f7f82cb-a141-46af-b507-c833a91e8f3a)
 
 
 **Sarah-Elhefnawy/sarah-elhefnawy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
