@@ -23,8 +23,8 @@
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [sarahelhefnawy0@gmail.com](mailto:sarahelhefnawy0@gmail.com)
 * ⚡  I’m looking for an Entry-Level position as .Net Backend Developer
-* 🚀  I'm currently working on [Maze Game Project](http://https://www.youtube.com/watch?v=0YbuM2oPuOA), building my OOP knowledge.
-* 🧠  I'm learning everything .NET
+* 🚀  I'm currently working on [E-Commerce Project](https://github.com/Sarah-Elhefnawy/ECommerceWebAPI), building my .Net experience.
+* 🧠  I'm learning everything Fullstack
 * 🎯 I recently Led the backend development of the 'Teddy' mobile app for kids that enhanced their learning experience, check it out [here](https://github.com/Sarah-Elhefnawy/TeddyApplication)
 
 
