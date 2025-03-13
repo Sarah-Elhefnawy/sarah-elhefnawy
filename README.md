@@ -23,7 +23,7 @@
 * 🌍  I'm based in Egypt
 * ✉️  You can contact me at [sarahelhefnawy0@gmail.com](mailto:sarahelhefnawy0@gmail.com)
 * ⚡  I’m looking for an Entry-Level position as .Net Backend Developer
-* 🚀  I am currently enrolled at the National Telecommunication Institute (NTI), where I am enhancing my skills as a web designer.
+* 🚀  I am currently enrolled at a Full Stack Diploma at Route Alexandria, specializing in .NET and Angular.
 * 🧠  I'm learning everything Fullstack
 * 🎯 I recently Led the backend development of the 'Teddy' mobile app for kids that enhanced their learning experience, check it out [here](https://github.com/Sarah-Elhefnawy/TeddyApplication)
 
