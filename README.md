@@ -33,7 +33,7 @@
 
 * ⚡ **Seeking**: Entry-Level position as Frontend Angular Developer
 * 🧠 **Currently Learning**: Backend development with .NET (starting November 2025)
-* 🎯 **Recent Achievement**: Completed Frontend diploma at Route with an E-Commerce graduation project - [View Project](https://e-commerce-two-iota-21.vercel.app)
+* 🎯 **Recent Achievement**: Completed Frontend diploma at Route with an E-Commerce graduation project - [View Project](https://sarah-angular-ecommerce.netlify.app/)
 * ✉️ **Contact**: [sarahelhefnawy0@gmail.com](mailto:sarahelhefnawy0@gmail.com)
 * 🌍 **Location**: Based in Egypt
 
